@@ -1,3 +1,3 @@
 pyTelegramBotAPI==3.7.1
-requests==2.24.0
+requests==2.31.0
 pyimgur==0.6.0
